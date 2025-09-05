@@ -3,3 +3,7 @@ uvicorn[standard]
 pydantic
 python-dotenv
 requests
+numpy
+pandas
+scikit-learn
+sentence-transformers
